@@ -1,5 +1,24 @@
 .App {
   text-align: center;
+ 
+  background-image: url(https://image.freepik.com/free-vector/banner-background-portrait-cute-cats-doodle-cartoon-style_45130-335.jpg);
+  height: 900px;
+  background-repeat: no-repeat;
+  
+  
+ 
+
+  
+
+  background-position: center;
+  
+
+  
+}
+.myPhoto{
+  border-radius: 50%;
+  width: 400px;
+  height: 350px;
 }
 
 .App-logo {
